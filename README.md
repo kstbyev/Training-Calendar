@@ -113,7 +113,30 @@ Training calendar/
 
 ## Скриншоты
 
-*(Приложение готово к демонстрации)*
+### Splash Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c3982aef-aac2-4ff9-a36a-bc3768dcd57e" width="200" alt="Splash Screen">
+</p>
+
+### Splash Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd0b4587-b42e-4a71-a3d3-723805240018" width="200" alt="Splash Screen">
+</p>
+
+### Splash Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/07fb346d-f197-4bd3-9c52-ef7a8b1af443" width="200" alt="Splash Screen">
+</p>
+
+### Splash Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/367b89b3-3900-4169-86ac-d6034e2077e3" width="200" alt="Splash Screen">
+</p>
+
+### Splash Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5161b0c8-603a-4616-8f78-ced240e841c8" width="200" alt="Splash Screen">
+</p>
 
 ## Автор
 
