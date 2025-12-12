@@ -120,3 +120,4 @@ Training calendar/
 Madi Sharipov - тестовое задание для демонстрации навыков iOS разработки.
 
 
+# Training-Calendar
