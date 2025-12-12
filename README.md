@@ -123,9 +123,9 @@ Training calendar/
   <img src="https://github.com/user-attachments/assets/dd0b4587-b42e-4a71-a3d3-723805240018" width="200" alt="Splash Screen">
 </p>
 
-### Splash Screen
+### Детали Тренировок с Датой
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/07fb346d-f197-4bd3-9c52-ef7a8b1af443" width="200" alt="Splash Screen">
+  <img src="https://github.com/user-attachments/assets/23f36dd8-16cb-4c3f-8c22-4785b5670d42" width="200" alt="Splash Screen">
 </p>
 
 ### График Пульса и Скорости
