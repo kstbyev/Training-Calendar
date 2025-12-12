@@ -81,7 +81,7 @@ struct WorkoutMetadata: Codable, Equatable {
         let activityTypeString = try container.decode(String.self, forKey: .workoutActivityType)
         workoutActivityType = WorkoutType(rawValue: activityTypeString) ?? .walkingRunning
         let dateString = try container.decode(String.self, forKey: .workoutStartDate)
-        workoutStartDate = ISO8601DateFormatter().date(from: dateString) ?? Date()
+        workoutStartDate = DateFormatter.iso8601CustomFormatter.date(from: dateString) ?? Date()
         distance = Double(try container.decode(String.self, forKey: .distance)) ?? 0.0
         duration = Double(try container.decode(String.self, forKey: .duration)) ?? 0.0
         maxLayer = try container.decode(Int.self, forKey: .maxLayer)
