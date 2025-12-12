@@ -10,12 +10,15 @@ import CoreData
 
 @main
 struct Training_calendarApp: App {
+    @State private var navigationPath = NavigationPath()
+    private let coordinator = AppCoordinator()
     let persistenceController = PersistenceController.shared
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
-                .environment(\.managedObjectContext, persistenceController.container.viewContext)
+            coordinator.buildRootView(path: $navigationPath)
+                .environment<NSManagedObjectContext>(\.managedObjectContext, persistenceController.container.viewContext)
+                .preferredColorScheme(.none) // Allow system theme
         }
     }
 }
